@@ -59,4 +59,4 @@ output
 
 http://www.freeformatter.com/xpath-tester.html can be used to test xpath expressions.
 
-This is my first gem. Feedbacks appreciated.
+This is my first gem. Feedbacks will be appreciated.
