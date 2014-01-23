@@ -1,6 +1,6 @@
 # html2json #
 
-A ruby gem to scrape a url and renders into JSON. Use with Rails.
+A ruby gem to scrape a webpage and renders required dom elements into a JSON. Use with Rails.
 
 ## Usage: ##
 ### Simple ###
@@ -57,4 +57,6 @@ output
 }
 ```
 
-Can use http://www.freeformatter.com/xpath-tester.html to test your xpath expressions.
+http://www.freeformatter.com/xpath-tester.html can be used to test xpath expressions.
+
+This is my first gem. Feedbacks appreciated.
