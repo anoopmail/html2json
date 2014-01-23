@@ -19,7 +19,7 @@ output
     ]
 }
 ```
-You can have arbitary key instead of the default "response" key. Use,
+You can have arbitary key instead of the default "response" key.
 ```ruby
 news.pick("//ul[@id='ticker']//li//a", 'breaking_news')
 ```
@@ -58,5 +58,4 @@ output
 ```
 
 http://www.freeformatter.com/xpath-tester.html can be used to test xpath expressions.
-
-This is my first gem. Feedbacks will be appreciated.
+*This is my first gem. Feedbacks will be appreciated.*
