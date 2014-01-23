@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/html2json.png)](http://badge.fury.io/rb/html2json)
 # html2json #
 
 A ruby gem to scrape a webpage and renders required dom elements into a JSON. Use with Rails.
